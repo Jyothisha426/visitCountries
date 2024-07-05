@@ -1,0 +1,38 @@
+.country {
+  background-color: #1f1f2f;
+  width: 250px;
+  height: 200px;
+  margin-right: 10px;
+}
+
+.thumbnail {
+  height: 150px;
+  width: 250px;
+}
+
+.name-btn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.name {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.remove-btn {
+  background-color: transparent;
+  border: 1px solid #f1f5f9;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  width: 26%;
+  height: 33px;
+  margin-top: 5px;
+  margin-right: 5px;
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
